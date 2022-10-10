@@ -1,0 +1,10 @@
+
+header{
+    background-image: url(img/pattern.png);
+    background-color: rgba(0, 110, 255, 0.699);
+    height: 100px;
+    align-self: auto;  
+}
+.booleaner{
+    color: rgba(0, 110, 255, 0.699) ;
+}
